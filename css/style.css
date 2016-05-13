@@ -1,0 +1,14 @@
+#wrap{
+	width: 1000px;
+	margin: 50px auto;
+}
+object{
+	width:1000px;
+	height:550px;
+}
+.textwidget{
+	margin-top: 50px;
+}
+h1{
+	text-align: center;
+}
